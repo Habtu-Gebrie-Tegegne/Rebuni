@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317326398460",
+    "project_id": "rebuni-68578",
+    "storage_bucket": "rebuni-68578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317326398460:android:aaa3fd91fe8d4b7d2c5879",
+        "android_client_info": {
+          "package_name": "com.example.rebuni"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317326398460-craoc097o84oijpjfci2cpkmjf3em4o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-oxuBpqwntHLkQdm2yL_XSrJtN0Caa_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317326398460-craoc097o84oijpjfci2cpkmjf3em4o8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
